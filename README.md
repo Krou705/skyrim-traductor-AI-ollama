@@ -143,7 +143,6 @@ Modelos alternativos (más livianos):
 
 ```bash
 git clone https://github.com/Krou705/skyrim-traductor-AI-ollama.git
-cd skyrim-traductor-AI-ollama
 ```
 
 > 💡 También puedes descargar el ZIP desde GitHub y descomprimirlo donde quieras.
