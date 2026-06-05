@@ -142,7 +142,7 @@ Modelos alternativos (más livianos):
 ### Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/skyrim-traductor-AI-ollama.git
+git clone https://github.com/Krou705/skyrim-traductor-AI-ollama.git
 cd skyrim-traductor-AI-ollama
 ```
 
